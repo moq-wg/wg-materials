@@ -21,7 +21,7 @@ More details will be provided in the coming weeks.
 There is a Light Rail train that runs from SeaTac to the downtown core.  You can
 also take a Ride Share or Taxi.
 
-Hotels
+## Hotels
 
 The closest hotels within walking distance are:
 
