@@ -12,7 +12,7 @@ In person attendees will need to sign in at the front desk.  All visitors need t
 * Pre-register [contact the chairs if you plan to attend in person]
 * Present a photo ID
 * Sign a (fairly lightweight) [NDA](https://datatracker.ietf.org/meeting/interim-2023-moq-03/materials/slides-interim-2023-moq-03-sessa-meta-visitor-nda-for-onsite-participants-00)
-* Upload proof of vaccination for COVID-19 48 hours prior to arrival
+* UPDATE, as of Jan 1, visitors to Meta's offices no longer need to show proof of vaccination
 
 More details will be provided in the coming weeks.
 
