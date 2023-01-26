@@ -1,7 +1,9 @@
 # IETF MoQ Working Group Interim 23-01 Meeting Agenda
 
 * [Meeting arrangements](https://github.com/moq-wg/wg-materials/blob/master/interim-23-01/arrangements.md)
+* [Warp Draft](https://kixelated.github.io/warp-draft/draft-lcurley-warp.html)
 * [Issues List](https://github.com/kixelated/warp-draft/issues)
+* [Open PRs](https://github.com/kixelated/warp-draft/pulls)
 
 ## Covid Policy
 
@@ -26,7 +28,7 @@ coming if they test positive.  Masks are optional in the meeting room.
 Approximately 30 minutes each, split between presentation and dicussion, with a 20 minute break
 
 * WebTransport frame per stream transport performance, Bernard Aboba
-* WARP implementation and results, Ali Begen
+* Warp implementation and results, Ali Begen
 * DTP, Chuan Ma
 * QUICR, Suhas Nandakumar
 
@@ -37,9 +39,9 @@ Approximately 30 minutes each, split between presentation and dicussion, with a 
 
 **2:00 - 4:45: Base Protocol**
 
-* 2:00 -  3:00  [WARP Draft](https://kixelated.github.io/warp-draft/draft-lcurley-warp.html) Presentation and Open Discussion, Luke Curley, Victor Vasiliev
+* 2:00 -  3:00  [Warp Draft](https://kixelated.github.io/warp-draft/draft-lcurley-warp.html) Presentation and Open Discussion, Luke Curley, Victor Vasiliev
 * 3:00 -  3:20  (Approximate) Break
-* 3:20 -  4:45  Issues list discussion
+* 3:20 -  4:45  Issues list discussion, including open PRs
  
 *Please file issues in the WARP repo and tag them per Ted's email*
 
