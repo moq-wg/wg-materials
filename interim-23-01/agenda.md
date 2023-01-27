@@ -15,6 +15,10 @@ coming if they test positive.  Masks are optional in the meeting room.
 
 ## Tuesday, January 31:
 
+[Zoom Link](https://fb.zoom.us/j/92637375736)
+
+Passcode: 298220
+
  **9:00 -  9:30: Room and Check-in open**
 
  **9:30 - 10:00: Kick off**
@@ -53,6 +57,10 @@ Chair wrap-up and agenda adjustments for Day 2
 
 
 ## Wednesday, February 1:
+
+[Zoom Link](https://fb.zoom.us/j/94595516261)
+
+Passcode: 553992
 
  **9:00 -  9:30: Room and Check-in open**
 
