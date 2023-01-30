@@ -29,10 +29,11 @@ Passcode: 298220
 
 **10:00 -  Lunch: Results of real world experiments & discussion**
 
-Approximately 30 minutes each, split between presentation and dicussion, with a 20 minute break
+Approximately 25 minutes each, split between presentation and dicussion, with a 20 minute break after the third presentation
 
 * WebTransport frame per stream transport performance, Bernard Aboba
 * Warp implementation and results, Ali Begen
+* Warp in QUICR, Datagrams and Congestion, Christian Huitema
 * DTP, Chuan Ma
 * QUICR, Suhas Nandakumar
 
