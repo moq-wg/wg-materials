@@ -62,6 +62,10 @@ There is paid parking in the building.  There are two garage entrances but only
 the Westlake Avenue entrance is for visitors.  There is another paid public
 parking garage less than a block South, on 8th Avenue N.
 
+### By Bike
+
+There are bike racks in the Westlake Avenue garage.  Unfortunately, there have been bike thefts recently so bring a big lock.
+
 ## Meeting Time
 
 Doors will open around 9am, with meetings starting at 9:30.  We’ll break for
