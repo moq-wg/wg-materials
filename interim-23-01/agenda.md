@@ -19,6 +19,12 @@ coming if they test positive.  Masks are optional in the meeting room.
 
 Passcode: 298220
 
+[MeetEcho Session](https://meetings.conf.meetecho.com/interim/?short=efac8b55-b9aa-491b-abd9-4da9b0579e31) for Blue Sheets/Queue/Chat
+
+[Zulip Chat Link](https://zulip.ietf.org/#narrow/stream/moq)
+
+[Notes](https://notes.ietf.org/notes-ietf-interim-2023-moq-03-moq)
+
  **9:00 -  9:30: Room and Check-in open**
 
  **9:30 - 10:00: Kick off**
@@ -38,6 +44,8 @@ Approximately 25 minutes each, split between presentation and dicussion, with a 
 * QUICR, Suhas Nandakumar
 
 **12:20 -  1:40  (Approximate) Lunch, not provided**
+
+[MeetEcho Session -- Day 1 Afternoon](https://meetings.conf.meetecho.com/interim/?short=9f2f22d9-18f0-454f-b22f-e9f8b5a5020e)
 
  **1:40 -  2:00  [Requirements Draft](https://github.com/fiestajetsam/draft-gruessing-moq-requirements), Spencer and James**
  * [Open Issues](https://github.com/fiestajetsam/draft-gruessing-moq-requirements/issues)
@@ -63,6 +71,10 @@ Chair wrap-up and agenda adjustments for Day 2
 
 Passcode: 553992
 
+[MeetEcho Session -- Day 2 Morning](https://meetings.conf.meetecho.com/interim/?short=1db9c18d-bdb5-4c0c-83f6-f14ad9e45f74)
+
+[Notes -- Day 2](https://notes.ietf.org/notes-ietf-interim-2023-moq-05-moq)
+
  **9:00 -  9:30: Room and Check-in open**
 
 **Most of the day: Discuss top issues from Day 1**
@@ -70,6 +82,8 @@ Passcode: 553992
 **10:45 - 11:00: (Approximate) Break**
 
 **12:15 - 1:30: (Approximate) Lunch, not provided**
+
+[MeetEcho Session -- Day 2 Afternoon](https://meetings.conf.meetecho.com/interim/?short=1db9c18d-bdb5-4c0c-83f6-f14ad9e45f74)
 
 **3:00 - 3:15: (Approximate) Break**
 
