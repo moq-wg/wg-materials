@@ -32,6 +32,7 @@ Passcode: 298220
 * Welcome, Introductions
 * Scribes, Blue Sheets, NOTE WELL
 * Goals for the interim
+* [Chair Slides](https://github.com/moq-wg/wg-materials/blob/main/interim-23-01/MoQ%20Interim%2023-01.pdf)
 
 **10:00 -  Lunch: Results of real world experiments & discussion**
 
