@@ -15,7 +15,8 @@ Motherindia Cuisine (Indian, 1515 Westlake Ave N)
 
 Gyro and More (Gyros, 1205 Dexter Ave N)
 
-[Maria Sabina](https://www.marinasabinarestaurant.com/) (Mexican, 711 Westlake Ave N)
+~~[Maria Sabina](https://www.marinasabinarestaurant.com/) (Mexican, 711 Westlake Ave N)~~ Place is closed at lunchtime. Alternate Mexican spot below.
+[Tacos Chukis](https://www.seattlechukis.com/) (832 Dexter Ave N)
 
 Metropolitan Cafe and Deli (Sandwiches/Grocery, 1287 Westlake Ave N)
 
