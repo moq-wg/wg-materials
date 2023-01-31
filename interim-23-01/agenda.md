@@ -53,7 +53,7 @@ Approximately 25 minutes each, split between presentation and dicussion, with a 
 
 **2:00 - 4:45: Base Protocol**
 
-* 2:00 -  3:00  [Warp Draft](https://kixelated.github.io/warp-draft/draft-lcurley-warp.html) Presentation and Open Discussion, Luke Curley, Victor Vasiliev
+* 2:00 -  3:00  [Warp Draft](https://kixelated.github.io/warp-draft/draft-lcurley-warp.html) [Presentation](https://docs.google.com/presentation/d/1z4_uK4Tibe3QfqtNLR4EoyJlzBrQevCBaB3j5z83pLc/edit?usp=sharing) and Open Discussion, Luke Curley, Victor Vasiliev
 * 3:00 -  3:20  (Approximate) Break
 * 3:20 -  4:45  Issues list discussion, including open PRs
  
