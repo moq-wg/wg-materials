@@ -97,7 +97,7 @@ Among the open questions:
 
 **12:30 - 1:45 (Approximate) Lunch, not provided**
 
-[MeetEcho Session -- Day 2 Afternoon](https://meetings.conf.meetecho.com/interim/?short=1db9c18d-bdb5-4c0c-83f6-f14ad9e45f74)
+[MeetEcho Session -- Day 2 Afternoon](https://meetings.conf.meetecho.com/interim/?short=120cc293-8cf9-4d01-95bd-a53e860f90ee)
 
 **1:45 - 1:55 Agenda Bash and Scribe Selection**
 
