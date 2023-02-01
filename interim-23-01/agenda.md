@@ -78,11 +78,24 @@ Passcode: 553992
 
  **9:00 -  9:30: Room and Check-in open**
 
-**Most of the day: Discuss top issues from Day 1**
+**9:30 - 11:00: Agenda Bash and Object model:**
 
-**10:45 - 11:00: (Approximate) Break**
+Among the open questions:
+* Do we need to have a protocol-level model for the composition of emissions that is consumed by an application.  (e.g. a videoconference with multiple publishers or a composed application of source + translation overlay)
+* How long-lived or unique do identifiers need to be for a composition of emissions (e.g. Broadcast with both live commentary and closed captions or a Zoom meeting with multiple participants)?   How about for a single resource within the composition (the closed captions, or the resources sent by a single member of a video conference)?
+*	How do you re-establish a session?
+* Where does media format negotiation occur and when in the protocol flow?
+*	How does priority get signaled to end consumers?  To intermediate network elements?
 
-**12:15 - 1:30: (Approximate) Lunch, not provided**
+**11:00 - 11:15: (Approximate) Break**
+
+**11:15 - 12:30:  Relays, Caches, and other middleboxes: Who needs to know what when?**
+
+Among the open questions:
+* Are they different behaviors for these that require different protocol behaviors? (e.g. a B2B UA might be a client and server from the point of view of the protocol, with an independently addressable set of resources).
+* Are there ingest middleboxes as well as fan-out relays?  Are there some boxes that do both?  Do these need to be addressable by other protocol participants in different ways?
+
+**12:30 - 1:45 (Approximate) Lunch, not provided**
 
 [MeetEcho Session -- Day 2 Afternoon](https://meetings.conf.meetecho.com/interim/?short=1db9c18d-bdb5-4c0c-83f6-f14ad9e45f74)
 
