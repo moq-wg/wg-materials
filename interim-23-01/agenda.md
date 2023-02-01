@@ -99,9 +99,19 @@ Among the open questions:
 
 [MeetEcho Session -- Day 2 Afternoon](https://meetings.conf.meetecho.com/interim/?short=1db9c18d-bdb5-4c0c-83f6-f14ad9e45f74)
 
+**1:45 - 1:55 Agenda Bash and Scribe Selection**
+
+**1:55 - 2:05: Discussion of call for adoption for requirements draft**
+
+**2:05 - 3:00: Discussion of Warp architectural issues**
+
 **3:00 - 3:15: (Approximate) Break**
 
-**4:15 - End: Planning for future meetings, hackathons and interop**
+**3:15 - 4:15: Discussion of Warp architectural issues...continued**
+
+**4:15 - 4:45: Interim assigments**
+
+**4:45 - 5:00: Wrap Up**
 
 -- Room closes at 5:00pm --
 
