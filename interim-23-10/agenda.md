@@ -2,6 +2,11 @@
 
 Doors open - 9AM
 
+## VC Info
+
+MeetEcho for chat and queue: https://meetings.conf.meetecho.com/interim/?short=0ef085f1-6940-4cba-814c-9ef8eaa0d5c9
+Google Meet link can be found in MeetEcho
+
 ### 9:30 - 10:00 - Welcome and Administrivia (Chairs)
 
 * Note Well
@@ -16,6 +21,8 @@ Doors open - 9AM
 Include 15 minute break
 
 ### 12:30 - 1:30 Lunch
+
+MeetEcho for chat and queue: https://meetings.conf.meetecho.com/interim/?short=7082aa31-9fd1-4216-a790-22e2b3a2882c
 
 ### 1:30 - 2:30 Catalog / Warp Intro (Will Law)
 
