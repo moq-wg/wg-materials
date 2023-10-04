@@ -5,6 +5,7 @@ Doors open - 9AM
 ## VC Info
 
 MeetEcho for chat and queue: https://meetings.conf.meetecho.com/interim/?short=0ef085f1-6940-4cba-814c-9ef8eaa0d5c9
+
 Google Meet link can be found in MeetEcho
 
 ### 9:30 - 10:00 - Welcome and Administrivia (Chairs)
