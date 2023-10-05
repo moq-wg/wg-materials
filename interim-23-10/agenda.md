@@ -38,6 +38,15 @@ Include another short break
 Doors Open 9AM
 
 ### 9:30 - 9:40 Agenda Rebash
+
+Issue 245 Subscription Hints
+
+break
+
+Obj mapping to stream
+
+145 and PR 262
+
 ### 9:40 - 10:00 Requirements and Use-cases Draft Update (Spencer Dawkins)
 ### 10:00 - 10:30 Mapping Drafts to Deliverables (Spencer Dawkins)
 
