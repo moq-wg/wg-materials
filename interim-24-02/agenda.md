@@ -24,6 +24,8 @@ Welcome, local logistics
 
 ## 12:30 Lunch - 75 minutes
 
+MeetEcho: https://meetings.conf.meetecho.com/interim/?group=f77f9357-45b9-4268-81ea-68ad50712d46
+
 ## 1:45 Make Before Break (Cullen) - 60 minutes
 
 ## 2:45 Catalog Draft Update (Will) - 45 minutes
@@ -38,6 +40,8 @@ Welcome, local logistics
 
 # Day 2
 
+MeetEcho: https://meetings.conf.meetecho.com/interim/?group=ea6add4c-2c74-4c2a-956e-5d60f3cb3c02
+
 ## 9:30 Agenda Rebash - 15 minutes
 
 ## 9:45 MoQT Issues, Group 2 (Ian) - 75 minutes
@@ -47,6 +51,8 @@ Welcome, local logistics
 ## 11:15 WARP (Will) - 20 minutes
 
 ## 12:15 Lunch - 75 minutes
+
+MeetEcho: https://meetings.conf.meetecho.com/interim/?group=410785d0-0379-453a-809b-98326a881b7b
 
 ## 1:30 ABR Schemes (Will/Luke) - 60 minutes
 
