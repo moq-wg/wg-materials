@@ -1,5 +1,9 @@
 # Day 1
 
+MeetEcho: https://meetings.conf.meetecho.com/interim/?group=2728312e-02b2-4e91-8e6f-778378d82f60
+
+A/V is via Teams, link in MeetEcho Chat
+
 ## 9:30 Administration - 15 minutes (Chairs)
 Welcome, local logistics   
 * Note Well                   
