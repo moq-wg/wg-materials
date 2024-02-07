@@ -6,7 +6,7 @@ Welcome, local logistics
 * Scribes
 * Introductions
 
-## 9:45 Interop Readout - 15 minutes (Alan/TBD)
+## 9:45 Interop Readout - 15 minutes (Alan)
 
 ## 10:00 Reviewing changes between moqt-01 and -02 - 60 minutes
 * [moqt-02](https://datatracker.ietf.org/doc/draft-ietf-moq-transport/02/)
@@ -30,7 +30,7 @@ Welcome, local logistics
 ## 3:45 MoQT Issues, Live Edge (Will) - 45 minutes
 * [Issue #337](https://github.com/moq-wg/moq-transport/issues/337)
 
-## 4:30 DRM/CAS Proposal (Vitaly Ivanov, Thosso Griebe) - 30 minutes
+## 4:30 DRM/CAS Proposal (Vitaly Ivanov, Thasso Griebe) - 30 minutes
 
 # Day 2
 
