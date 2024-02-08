@@ -50,6 +50,8 @@ MeetEcho: https://meetings.conf.meetecho.com/interim/?group=ea6add4c-2c74-4c2a-9
 
 ## 11:15 WARP (Will) - 20 minutes
 
+## 11:35 (Gap created by Will shortening WARP slot) - 40 minutes
+
 ## 12:15 Lunch - 75 minutes
 
 MeetEcho: https://meetings.conf.meetecho.com/interim/?group=410785d0-0379-453a-809b-98326a881b7b
