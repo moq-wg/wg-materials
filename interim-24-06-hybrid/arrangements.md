@@ -69,7 +69,7 @@ Taxis from the airport are on the order of $50.
 
 Light rail runs from the airport to Westlake Station, which is approximately one mile from both venues, for a fare of $3. You can purchase tickets at the station.
 
-To cover the last mile to the venue or the hotel, there is a very dense network of frequent bus, monorail, and streetcar routes. I recommend you use your favorite trip planning software to find the best option at any given time. https://seattletransitmap.com/app/ provides an excellent overview of the options.
+To cover the last mile to the venue or the hotel, there is a very dense network of frequent bus, monorail, and streetcar routes. I recommend you use your favorite trip planning software to find the best option at any given time. [https://seattletransitmap.com/app/](https://kingcounty.gov/en/-/media/king-county/depts/metro/maps/seattle/03302024/pdf/downtown-seattle-frequency-geo-map.pdf) provides an excellent overview of the options.
 
 If you transfer from light rail to something else, or plan to use transit to get around during your stay, the chairs strongly recommend you purchase an ORCA card ($3) at the airport station ticket machine. This works much like transit farecards in other cities, and dramatically reduces the complexity of figuring out Seattle's fare and transfer rules.
 
