@@ -15,7 +15,7 @@
 
 ## 10:15 Use Cases and Deployment Scenarios for MoQ Priority (60 min)
 
-* Link to use cases
+* [Use Cases](https://github.com/moq-wg/wg-materials/edit/main/interim-24-06-hybrid/use-cases.md)
 
 ## 11:15 Break (15 min)
 
@@ -27,13 +27,19 @@
 
 ## 12:30 Lunch (75 min)
 
-## 1:45 Whiteboard/Discussion of Priority Questions Part 1 (75 min) 
-Moderators: Chairs
+## 1:45 Whiteboard/Discussion of Priority Questions Part 1 (75 min)
+
+[Questions](https://github.com/moq-wg/wg-materials/edit/main/interim-24-06-hybrid/priority-questions.md)
+
+_Moderated by Chairs_
 
 ## 3:00 Break (15 min)
 
-## 3:15 Whiteboard/Discussion of Priority Questions Part 2 (90 min) Chairs
-Moderators: Chairs
+## 3:15 Whiteboard/Discussion of Priority Questions Part 2 (90 min)
+
+[Questions](https://github.com/moq-wg/wg-materials/edit/main/interim-24-06-hybrid/priority-questions.md)
+
+_Moderated by Chairs_
 
 ## 4:45 Day 1 Wrap Up
 
