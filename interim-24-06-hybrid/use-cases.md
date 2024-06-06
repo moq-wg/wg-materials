@@ -6,6 +6,18 @@ or for setting fields in lower level protocols.
 
 Some other tools besides a priority signal can also be used to meet some use cases (eg: unsubscribe, cancellation, flow control, request pattern).
 
+## Deployment Scenarios
+
+Assuming priorities are primarily about managing bandwidth at the bottleneck link, keep in mind this could be in multiple places in a MoQ system:
+
+```
+Relay  <-- bottleneck -->  Subscriber
+
+Publisher  <-- bottleneck -->  Relay
+
+Publisher/Relay  <-- bottleneck -->  Relay  <-- lan -->  Subscriber
+```
+
 ## Use Case 1: Prioritize one track relative to another track
 
 ### Examples
