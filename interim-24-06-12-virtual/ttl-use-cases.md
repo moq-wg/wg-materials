@@ -5,7 +5,7 @@ Publisher can hint to a relay or subscriber the maximum amount of time an object
 * A cache can evict items before their maximum duration has passed for its own reasons
 * Evicting or expiring an object from a cache should not change what objects are delivered for a subscription.
 
-## Use Case #2 - Don't send what you won't use
+## Use Case #2 - Delivery: Don't send what you won't use
 Live and interactive applications require a mechanism that prevents delivery of data that is no longer useful
 
   1. In some applications, each subscriber might have a different useful duration<br>
@@ -15,9 +15,11 @@ Live and interactive applications require a mechanism that prevents delivery of 
   3. In some applications, the arrival of newer groups or objects may change what is useful<br>
     _Example_: Don't deliver object from groups more than 1 behind live head
 
-Objects which arrive at a cache live may be cached and retrieved as VoD or live rewind.  A live subscriber might not
-want to receive data older than say, 10 seconds, but the publisher might want that data to reside in a cache for up to 30 
-minutes.
+This is orthogonal to caching, timeouts should also apply to queuing.
+
+Combining #1 and #2: Objects which arrive at a relay live may be cached and retrieved later as VoD or live rewind.
+A live subscriber might not want to receive data older than say, 10 seconds, but the publisher might want that data
+to reside in a cache for up to 30 minutes.
      
 ## Use Case #3 - Policy
 Publisher can set a policy on a track indicating an absolute time after which an object must not be served
@@ -26,7 +28,7 @@ Publisher can set a policy on a track indicating an absolute time after which an
 
 ## Questions:
 
-1. What is the appropriate granularity of exiry information?  Are there tracks and/or groups with objects that have different
+1. What is the appropriate granularity of expiry information?  Are there tracks and/or groups with objects that have different
    properties with respect to caching, delivery or policy?
 2. Is it useful to have a flavor of publisher-specified cache expiration that also modifies object status from `Normal` to `Does Not Exist`?<br>
    This is the traditional meaning of "time-to-live".
