@@ -28,4 +28,5 @@ Publisher can set a policy on a track indicating an absolute time after which an
 
 1. What is the appropriate granularity of exiry information?  Are there tracks and/or groups with objects that have different
    properties with respect to caching, delivery or policy?
-2. Is it useful to have a flavor of publisher-specified cache expiration that also modifies object status from `Normal` to `Does Not Exist`?
+2. Is it useful to have a flavor of publisher-specified cache expiration that also modifies object status from `Normal` to `Does Not Exist`?<br>
+   This is the traditional meaning of "time-to-live".
