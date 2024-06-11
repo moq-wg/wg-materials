@@ -5,6 +5,9 @@ Publisher can hint to a relay or subscriber the maximum amount of time an object
 * A cache can evict items before their maximum duration has passed for its own reasons
 * Evicting or expiring an object from a cache should not change what objects are delivered for a subscription.
 
+Question: Is it useful to have a flavor of publisher-specified cache expiration that also modifies object status 
+from `Normal` to `Does Not Exist`? This is the traditional meaning of "time-to-live".
+
 ## Use Case #2 - Delivery: Don't send what you won't use
 Live and interactive applications require a mechanism that prevents delivery of data that is no longer useful
 
@@ -30,5 +33,4 @@ Publisher can set a policy on a track indicating an absolute time after which an
 
 1. What is the appropriate granularity of expiry information?  Are there tracks and/or groups with objects that have different
    properties with respect to caching, delivery or policy?
-2. Is it useful to have a flavor of publisher-specified cache expiration that also modifies object status from `Normal` to `Does Not Exist`?<br>
-   This is the traditional meaning of "time-to-live".
+2. For relative times, when do the timers start?
