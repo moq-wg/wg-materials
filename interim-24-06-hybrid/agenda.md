@@ -27,7 +27,9 @@ Google Meet: https://meet.google.com/xgo-ioud-bae
 * Lessons from HTTP (evolving from HTTP/2 to RFC 9218) - Lucas (20 minutes)
 * Lessons from Realtime Applications  - Mo (20 minutes)
 
-## 12:30 Lunch (75 min)
+## 12:30 Lunch (60 min)
+
+## 1:30 MoQ Priorities and How to Think About Them - Victor (20 min)
 
 ## 1:45 Whiteboard/Discussion of Priority Questions Part 1 (75 min)
 
