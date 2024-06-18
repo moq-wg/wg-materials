@@ -1,5 +1,7 @@
 # Day 1
 
+Google Meet: https://meet.google.com/xgo-ioud-bae
+
 ## 9:00 Doors Open
 
 ## 9:30 Administrivia and overview (45 min)
