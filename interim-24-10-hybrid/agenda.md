@@ -1,7 +1,16 @@
 
 # Agenda
 
-## Day 1
+## Hackathon - 1 October
+
+### 9:00 Doors Open
+
+### 9:30 - 12:30 Hack
+### 12:30 Lunch
+### 1:00 - 5:00 Hack
+### 5:00 Done
+
+## Interim Day 1 - 2 October
 
 ### 9:00 Doors Open
 
@@ -11,7 +20,7 @@
 * Goals
 * Agenda Bash
 
-### 9:45 Interop Readout (Mike English)
+### 9:45 Interop Readout (Mike English, Mathis)
 
 ### 10:00 FETCH Use Cases (30 minutes) - Alan
 * Review issues and use cases
@@ -25,7 +34,9 @@
 * Will
 * Suhas
 
-### 12:15 Lunch
+### General Discussion (Balance of time to lunch)
+
+### 12:30 Lunch
 
 ### 1:30 Updates from Lunch discussions
 
@@ -39,7 +50,7 @@
 
 ### 5:00 Done
 
-## Day 2
+## Interim Day 2 - 3 October
 
 ### 9:00 Doors Open
 
@@ -55,7 +66,7 @@
 * Priorities with Subgroups
 * Removing min(object-priority-within-track) from the algorithm
 
-### 12:15 Lunch
+### 12:30 Lunch
 
 ### 1:30 Track Namespace + Name merge (Will)
 
