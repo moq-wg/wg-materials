@@ -1,7 +1,8 @@
 ## Meeting Dates
 
 * October 1 - Hackathon and Interop
-* October 2 and 3 - Interim Meetings
+* October 2 - Interim Meeting [WebEx](https://datatracker.ietf.org/meeting/interim-2024-moq-18/session/moq)
+* October 3 - Interim Meeting [WebEx](https://datatracker.ietf.org/meeting/interim-2024-moq-20/session/moq)
 
 ## Location
 
