@@ -87,6 +87,7 @@ WebEx Info On [Datatracker](https://datatracker.ietf.org/meeting/interim-2024-mo
 * Present the use-case and a request for common open-source relay code to be developed.
 * Do we need stream per track after FETCH?
 * RST_STREAM and STOP_SENDING - when to send and what do they mean?
+* Proposal to fix end-of-subgroup (issue #442)
 * Review SUBSCRIBE_NAMESPACE
   * Should we replace it with a special track?
 * DDoS/Security
