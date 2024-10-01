@@ -48,7 +48,7 @@ WebEx Info On [Datatracker](https://datatracker.ietf.org/meeting/interim-2024-mo
 
 ### 3:30 Catalog Design Team Readout (Will)
 
-### 4:30 Prewarming MoQ Tracks (Suhas)
+### 4:10 Object ID Proposal (Victor)
 
 ### 5:00 Done
 
@@ -74,7 +74,9 @@ WebEx Info On [Datatracker](https://datatracker.ietf.org/meeting/interim-2024-mo
 
 ### 1:30 Track Namespace + Name merge (Will)
 
-### 2:00 Object ID Proposal (Victor)
+### 2:00 Proposal to fix end-of-subgroup (issue #442) (Alan)
+
+### 2:30 Prewarming MoQ Tracks (Suhas)
 
 ### 3:00 SUBSCRIBE_DONE (Ian)
 
