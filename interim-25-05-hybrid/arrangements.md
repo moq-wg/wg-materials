@@ -19,3 +19,4 @@ If you wish to attend in person, please add yourself to the list below.
 9. Daniel Fay (Meta)
 10. Suhas Nandakumar (Cisco)
 11. Cullen Jennings (Cisco)
+12. Gwendal Simon (Synamedia)
