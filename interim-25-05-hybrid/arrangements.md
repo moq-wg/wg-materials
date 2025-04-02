@@ -20,3 +20,12 @@ If you wish to attend in person, please add yourself to the list below.
 1. Cullen Jennings (Cisco)
 1. Torbjörn Einarsson (Eyevinn)
 1. Gwendal Simon (Synamedia)
+
+
+# Travel to and from Arlanda Airport
+
+Assuming you stay near the central station taking the airport express train “Arlanda Express” (https://www.arlandaexpress.com/?lang=en-US) is a fast and practical way of getting to and from the airport. Google Office is very close to the train station. One way tickets are 340 Sek and the trip takes 18 minutes and depart frequently. 
+
+SL local rail can also take you from Arlanda, it is cheaper at 190 Sek, but have less frequent departures often only every 30 min. This is the less comfortable option and with many stops. 
+
+Taxi from Arlanda is quite pricey at 795 Sek (CabOnline) and will take approximately 45 minutes. Taxis in Stockholm is an open market and prices can vary between companies quite a lot. Check the comparision price on the yellow sticker on the door before entering any cab. The big number should not be above 600. The biggest reputable dispatch is CabOnline ( https://www.cabonline.se/) but Uber and Bolt also exists. 
