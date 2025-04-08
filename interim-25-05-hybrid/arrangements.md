@@ -20,6 +20,7 @@ If you wish to attend in person, please add yourself to the list below.
 1. Cullen Jennings (Cisco)
 1. Torbjörn Einarsson (Eyevinn)
 1. Gwendal Simon (Synamedia)
+1. Zaheduzzaman Sarker (Nokia) 
 
 
 # Travel to and from Arlanda Airport
