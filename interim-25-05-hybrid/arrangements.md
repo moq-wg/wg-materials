@@ -23,7 +23,7 @@ If you wish to attend in person, please add yourself to the list below.
 1. Per Mafrost (Vindral)
 1. Mattias Bergström (Vindral)
 1. Mathis Engelbart (TUM)
-   
+1. Zafer Gurel (Constructor Tech)   
 
 
 # Travel to and from Arlanda Airport
