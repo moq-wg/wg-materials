@@ -4,6 +4,8 @@ The meeting will be 5-7 May 2025, Stockholm, Sweden, at Google's office near the
 
 Kungsbron 2, 111 22,  Stockholm, Sweden
 
+To be guided to the meeting room talk to the Google Reception that is located one half-stair up from entrence. 
+
 If you wish to attend in person, please add yourself to the list below.
 
 # In-person Attendees
