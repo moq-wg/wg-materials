@@ -23,8 +23,8 @@ If you wish to attend in person, please add yourself to the list below.
 1. Mattias Bergström (Vindral)
 1. Mathis Engelbart (TUM)
 1. Zafer Gurel (Constructor Tech)
-1. Zahed Sarker (Nokia)   
-
+1. Zaheduzzaman Sarker (Nokia)   
+1. Jordi Cenzano (Meta) [Probably only Monday]
 
 # Travel to and from Arlanda Airport
 
