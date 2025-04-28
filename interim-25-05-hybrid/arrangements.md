@@ -27,6 +27,7 @@ If you wish to attend in person, please add yourself to the list below.
 1. Zafer Gurel (Constructor Tech)
 1. Zaheduzzaman Sarker (Nokia)   
 1. Jordi Cenzano (Meta) [Probably only Monday]
+1. Mo Zanaty (Cisco)
 
 # Travel to and from Arlanda Airport
 
