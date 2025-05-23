@@ -11,4 +11,4 @@ If you wish to attend in person, please add yourself to the list below.
 
 # In-person Attendees
 
-1. Martin Duke (Google)
+1. Martin Duke (Google, Tue-Thu)
