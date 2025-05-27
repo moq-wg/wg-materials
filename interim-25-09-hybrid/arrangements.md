@@ -12,3 +12,4 @@ If you wish to attend in person, please add yourself to the list below.
 # In-person Attendees
 
 1. Martin Duke (Google, Tue-Thu)
+2. Alan Frindell (Meta, Mon-Thu)
