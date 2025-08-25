@@ -14,7 +14,7 @@ If you wish to attend in person, please add yourself to the list below.
 1. Martin Duke (Google)
 2. Alan Frindell (Meta)
 3. Magnus Westerlund (Ericsson)
-
+4. Ian Swett (Google)
 
 # In-person Interop Attendees (Monday and Tuesday)
 
