@@ -13,9 +13,12 @@ If you wish to attend in person, please add yourself to the list below.
 
 1. Martin Duke (Google)
 2. Alan Frindell (Meta)
+3. Magnus Westerlund (Ericsson)
 
 
 # In-person Interop Attendees (Monday and Tuesday)
 
 1. Martin Duke (T)
 2. Alan Frindell (M afternoon, T)
+3. Magnus Westerlund (T)
+4. 
