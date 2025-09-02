@@ -22,4 +22,4 @@ If you wish to attend in person, please add yourself to the list below.
 1. Martin Duke (T)
 2. Alan Frindell (M afternoon, T)
 3. Magnus Westerlund (T)
-4. Mike English (Cloudflare)
+4. Mike English (M, T)
