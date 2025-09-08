@@ -16,6 +16,7 @@ If you wish to attend in person, please add yourself to the list below.
 3. Magnus Westerlund (Ericsson)
 4. Ian Swett (Google)
 5. Mike English (Cloudflare)
+6. Ye-Kui Wang (Bytedance)
 
 # In-person Interop Attendees (Monday and Tuesday)
 
