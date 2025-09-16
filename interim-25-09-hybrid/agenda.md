@@ -56,7 +56,7 @@
 * #1003 No way to know if/how a SUBSCRIBE_UPDATE was processed
 * #1182 Proposal for REQUEST_OK message
 
-### - [40] General issues, esp. wire format
+### [40] General issues, esp. wire format
 
 **Wire Format**
 
