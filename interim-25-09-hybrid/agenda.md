@@ -62,7 +62,6 @@
 
 * #660/PR #949 FETCH serialization
 * #549/PR#1016 Varints
-* #1202/PR #1056 Default Publisher Priority and compression
 * #1204 FETCH priority update
 * #781/PR #1176 Track Extensions
 * #794 Object Extension Types should not rob the bottom bit for even/odd games
