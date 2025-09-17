@@ -71,6 +71,7 @@
 * #1162 Should we remove INTERNAL_ERROR?
 * #1158 Cacheability of MALFORMED_TRACK
 * #1168 Ephemeral vs Long-lived Request IDs
+* #1183/PR #1220	Subscribing to all publishers for a Track's namespace can be wasteful	
 
 **Frame Headers**
 
@@ -118,6 +119,7 @@
 ### Other Needs Discussion:
 
 * 668 Should sending GOAWAY also block SUBSCRIBE, etc.?
+* 1124	What are the rules for overlapping prefixes in UNSUBSCRIBE_NAMESPACE?	
 * 1070 Is it a protocol error to get ANNOUNCE_CANCEL before ANNOUNCE_OK/ANNOUNCE_ERROR?	
 * 869 Difficult to limit resource consumption of a Subscription	
 * 836	Elaborate on the role of the original publisher	
@@ -142,7 +144,8 @@
 
 ### Other Needs PR that (probably?) just need a PR
 
-* 1160	MoQ over raw QUIC default port	
+* 1160	MoQ over raw QUIC default port
+* 1144	Is TRACK_STATUS_OK with track_alias > 0 an error?
 * 1121	Parameters are only one per Message by default, Objects are unstated
 * 1041	Namespace/Name Edge cases
 * 770	Allow widening a subscription in SUBSCRIBE_UPDATE
@@ -151,14 +154,10 @@
 
 ### Other Untriaged (TBD, will udpate)
 
-* 1183	Subscribing to all publishers for a Track's namespace can be wasteful	
 * 1177	Need a way to pause/resume a track in the data plane	
 * 1174	Provide guidance on text encoding	
-* 1144	Is TRACK_STATUS_OK with track_alias > 0 an error?	
-* 1124	What are the rules for overlapping prefixes in UNSUBSCRIBE_NAMESPACE?	
 * 1103	Delivery timeout, Datagrams, and Caching	
 * 1101	Track switching at the live edge using MOQT's current messages?	
-* 1068	Outside-in compression: scaling MOQT for high capacity ingest	
 * 1064	TRACK_STATUS[_OK] has useless fields	
 * 1057	Is knowing no Objects in a Fetch are Unknown practical?	
 * 1040	Flow control with SVC	
