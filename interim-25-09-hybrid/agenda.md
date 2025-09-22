@@ -48,6 +48,7 @@
 ### [30] Extensibility Model and Grease
 * #416 Extensibility and greasing
 * #1175 Handling of non-defined error codes
+* #1231 Are error codes best-effort or mandatory?
 
 ### [20] Expiration
 * #1026 Proposed new requirements for expires
@@ -122,6 +123,7 @@
 * 1070 Is it a protocol error to get ANNOUNCE_CANCEL before ANNOUNCE_OK/ANNOUNCE_ERROR?	
 * 869 Difficult to limit resource consumption of a Subscription	
 * 836	Elaborate on the role of the original publisher	
+* 1103	Delivery timeout, Datagrams, and Caching	
 
 #### We keep talking without progress, low pri?
 
@@ -153,9 +155,10 @@
 
 ### Other Untriaged (TBD, will udpate)
 
+* 1233 Semantic FIN and Filters / Forward
+* 1230 Reconsider using Object Delta Value in Subgroup Object
 * 1177	Need a way to pause/resume a track in the data plane	
 * 1174	Provide guidance on text encoding	
-* 1103	Delivery timeout, Datagrams, and Caching	
 * 1101	Track switching at the live edge using MOQT's current messages?	
 * 1064	TRACK_STATUS[_OK] has useless fields	
 * 1057	Is knowing no Objects in a Fetch are Unknown practical?	
